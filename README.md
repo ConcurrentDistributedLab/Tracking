@@ -35,7 +35,7 @@ After compiling the executables, you can run your own experiment by calling `./<
 
 # License
 
-This code is provided under the [LGPL-2.1 License](https://github.com/ConcurrentDistributedLab/Tracking/blob/main/LICENSE).
+This code is provided under the [LGPL-2.1 License](https://github.com/ConcurrentDistributedLab/Tracking/blob/master/LICENSE).
 
 # References
 
