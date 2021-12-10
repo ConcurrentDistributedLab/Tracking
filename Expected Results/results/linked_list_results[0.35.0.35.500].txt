@@ -1,0 +1,1567 @@
+Running manual linked list flush experiments for 3 seconds each and random work .
+Test Tracking - Threads num: 1
+372288
+Test Tracking-Flushes - Threads num: 1
+5.75064
+Test Tracking-Flushes-Low - Threads num: 1
+4.70029
+Test Tracking-Flushes-Medium - Threads num: 1
+1.05035
+Test Tracking-Flushes-High - Threads num: 1
+0
+Test Tracking-Fence - Threads num: 1
+4.70023
+Test Tracking - Threads num: 1
+370533
+Test Tracking-Flushes - Threads num: 1
+5.75001
+Test Tracking-Flushes-Low - Threads num: 1
+4.70002
+Test Tracking-Flushes-Medium - Threads num: 1
+1.04999
+Test Tracking-Flushes-High - Threads num: 1
+0
+Test Tracking-Fence - Threads num: 1
+4.69999
+Test Tracking - Threads num: 1
+371477
+Test Tracking-Flushes - Threads num: 1
+5.75454
+Test Tracking-Flushes-Low - Threads num: 1
+4.70186
+Test Tracking-Flushes-Medium - Threads num: 1
+1.05268
+Test Tracking-Flushes-High - Threads num: 1
+0
+Test Tracking-Fence - Threads num: 1
+4.70179
+Test Tracking - Threads num: 12
+980406
+Test Tracking-Flushes - Threads num: 12
+5.80399
+Test Tracking-Flushes-Low - Threads num: 12
+4.72287
+Test Tracking-Flushes-Medium - Threads num: 12
+1.08112
+Test Tracking-Flushes-High - Threads num: 12
+0
+Test Tracking-Fence - Threads num: 12
+4.72246
+Test Tracking - Threads num: 12
+979752
+Test Tracking-Flushes - Threads num: 12
+5.80254
+Test Tracking-Flushes-Low - Threads num: 12
+4.72228
+Test Tracking-Flushes-Medium - Threads num: 12
+1.08026
+Test Tracking-Flushes-High - Threads num: 12
+0
+Test Tracking-Fence - Threads num: 12
+4.72192
+Test Tracking - Threads num: 12
+983080
+Test Tracking-Flushes - Threads num: 12
+5.80283
+Test Tracking-Flushes-Low - Threads num: 12
+4.72233
+Test Tracking-Flushes-Medium - Threads num: 12
+1.0805
+Test Tracking-Flushes-High - Threads num: 12
+0
+Test Tracking-Fence - Threads num: 12
+4.72201
+Test Tracking - Threads num: 24
+2126180
+Test Tracking-Flushes - Threads num: 24
+5.88772
+Test Tracking-Flushes-Low - Threads num: 24
+4.75872
+Test Tracking-Flushes-Medium - Threads num: 24
+1.12899
+Test Tracking-Flushes-High - Threads num: 24
+0
+Test Tracking-Fence - Threads num: 24
+4.75747
+Test Tracking - Threads num: 24
+2142411
+Test Tracking-Flushes - Threads num: 24
+5.88751
+Test Tracking-Flushes-Low - Threads num: 24
+4.75857
+Test Tracking-Flushes-Medium - Threads num: 24
+1.12894
+Test Tracking-Flushes-High - Threads num: 24
+0
+Test Tracking-Fence - Threads num: 24
+4.75745
+Test Tracking - Threads num: 24
+2140972
+Test Tracking-Flushes - Threads num: 24
+5.88732
+Test Tracking-Flushes-Low - Threads num: 24
+4.75841
+Test Tracking-Flushes-Medium - Threads num: 24
+1.12891
+Test Tracking-Flushes-High - Threads num: 24
+0
+Test Tracking-Fence - Threads num: 24
+4.75728
+Test Tracking - Threads num: 36
+3729868
+Test Tracking-Flushes - Threads num: 36
+5.95493
+Test Tracking-Flushes-Low - Threads num: 36
+4.78728
+Test Tracking-Flushes-Medium - Threads num: 36
+1.16765
+Test Tracking-Flushes-High - Threads num: 36
+0
+Test Tracking-Fence - Threads num: 36
+4.78552
+Test Tracking - Threads num: 36
+3725824
+Test Tracking-Flushes - Threads num: 36
+5.9561
+Test Tracking-Flushes-Low - Threads num: 36
+4.78773
+Test Tracking-Flushes-Medium - Threads num: 36
+1.16836
+Test Tracking-Flushes-High - Threads num: 36
+0
+Test Tracking-Fence - Threads num: 36
+4.78607
+Test Tracking - Threads num: 36
+3730537
+Test Tracking-Flushes - Threads num: 36
+5.95609
+Test Tracking-Flushes-Low - Threads num: 36
+4.78773
+Test Tracking-Flushes-Medium - Threads num: 36
+1.16836
+Test Tracking-Flushes-High - Threads num: 36
+0
+Test Tracking-Fence - Threads num: 36
+4.78611
+Test Tracking - Threads num: 48
+4530182
+Test Tracking-Flushes - Threads num: 48
+6.00131
+Test Tracking-Flushes-Low - Threads num: 48
+4.80816
+Test Tracking-Flushes-Medium - Threads num: 48
+1.19316
+Test Tracking-Flushes-High - Threads num: 48
+0
+Test Tracking-Fence - Threads num: 48
+4.80465
+Test Tracking - Threads num: 48
+4505891
+Test Tracking-Flushes - Threads num: 48
+6.00009
+Test Tracking-Flushes-Low - Threads num: 48
+4.80755
+Test Tracking-Flushes-Medium - Threads num: 48
+1.19254
+Test Tracking-Flushes-High - Threads num: 48
+0
+Test Tracking-Fence - Threads num: 48
+4.80415
+Test Tracking - Threads num: 48
+4529199
+Test Tracking-Flushes - Threads num: 48
+6.00137
+Test Tracking-Flushes-Low - Threads num: 48
+4.80811
+Test Tracking-Flushes-Medium - Threads num: 48
+1.19326
+Test Tracking-Flushes-High - Threads num: 48
+0
+Test Tracking-Fence - Threads num: 48
+4.8047
+Test Tracking - Threads num: 60
+5036248
+Test Tracking-Flushes - Threads num: 60
+6.03894
+Test Tracking-Flushes-Low - Threads num: 60
+4.83013
+Test Tracking-Flushes-Medium - Threads num: 60
+1.20881
+Test Tracking-Flushes-High - Threads num: 60
+0
+Test Tracking-Fence - Threads num: 60
+4.81991
+Test Tracking - Threads num: 60
+5042297
+Test Tracking-Flushes - Threads num: 60
+6.03671
+Test Tracking-Flushes-Low - Threads num: 60
+4.8292
+Test Tracking-Flushes-Medium - Threads num: 60
+1.20751
+Test Tracking-Flushes-High - Threads num: 60
+0
+Test Tracking-Fence - Threads num: 60
+4.81897
+Test Tracking - Threads num: 60
+5027555
+Test Tracking-Flushes - Threads num: 60
+6.03903
+Test Tracking-Flushes-Low - Threads num: 60
+4.8302
+Test Tracking-Flushes-Medium - Threads num: 60
+1.20882
+Test Tracking-Flushes-High - Threads num: 60
+0
+Test Tracking-Fence - Threads num: 60
+4.82001
+Test Tracking - Threads num: 72
+5416676
+Test Tracking-Flushes - Threads num: 72
+6.07161
+Test Tracking-Flushes-Low - Threads num: 72
+4.84979
+Test Tracking-Flushes-Medium - Threads num: 72
+1.22182
+Test Tracking-Flushes-High - Threads num: 72
+0
+Test Tracking-Fence - Threads num: 72
+4.83323
+Test Tracking - Threads num: 72
+5409261
+Test Tracking-Flushes - Threads num: 72
+6.07126
+Test Tracking-Flushes-Low - Threads num: 72
+4.84936
+Test Tracking-Flushes-Medium - Threads num: 72
+1.2219
+Test Tracking-Flushes-High - Threads num: 72
+0
+Test Tracking-Fence - Threads num: 72
+4.83312
+Test Tracking - Threads num: 72
+5416469
+Test Tracking-Flushes - Threads num: 72
+6.07098
+Test Tracking-Flushes-Low - Threads num: 72
+4.84949
+Test Tracking-Flushes-Medium - Threads num: 72
+1.22149
+Test Tracking-Flushes-High - Threads num: 72
+0
+Test Tracking-Fence - Threads num: 72
+4.83293
+Test Tracking - Threads num: 84
+5702649
+Test Tracking-Flushes - Threads num: 84
+6.0997
+Test Tracking-Flushes-Low - Threads num: 84
+4.86671
+Test Tracking-Flushes-Medium - Threads num: 84
+1.23299
+Test Tracking-Flushes-High - Threads num: 84
+0
+Test Tracking-Fence - Threads num: 84
+4.84468
+Test Tracking - Threads num: 84
+5711133
+Test Tracking-Flushes - Threads num: 84
+6.10115
+Test Tracking-Flushes-Low - Threads num: 84
+4.86759
+Test Tracking-Flushes-Medium - Threads num: 84
+1.23356
+Test Tracking-Flushes-High - Threads num: 84
+0
+Test Tracking-Fence - Threads num: 84
+4.84525
+Test Tracking - Threads num: 84
+5707986
+Test Tracking-Flushes - Threads num: 84
+6.10115
+Test Tracking-Flushes-Low - Threads num: 84
+4.86747
+Test Tracking-Flushes-Medium - Threads num: 84
+1.23368
+Test Tracking-Flushes-High - Threads num: 84
+0
+Test Tracking-Fence - Threads num: 84
+4.84524
+Test Tracking - Threads num: 96
+5492759
+Test Tracking-Flushes - Threads num: 96
+6.14557
+Test Tracking-Flushes-Low - Threads num: 96
+4.88314
+Test Tracking-Flushes-Medium - Threads num: 96
+1.26243
+Test Tracking-Flushes-High - Threads num: 96
+0
+Test Tracking-Fence - Threads num: 96
+4.85591
+Test Tracking - Threads num: 96
+5840867
+Test Tracking-Flushes - Threads num: 96
+6.13157
+Test Tracking-Flushes-Low - Threads num: 96
+4.88381
+Test Tracking-Flushes-Medium - Threads num: 96
+1.24775
+Test Tracking-Flushes-High - Threads num: 96
+0
+Test Tracking-Fence - Threads num: 96
+4.8561
+Test Tracking - Threads num: 96
+5833672
+Test Tracking-Flushes - Threads num: 96
+6.13201
+Test Tracking-Flushes-Low - Threads num: 96
+4.88356
+Test Tracking-Flushes-Medium - Threads num: 96
+1.24844
+Test Tracking-Flushes-High - Threads num: 96
+0
+Test Tracking-Fence - Threads num: 96
+4.85603
+Test Capsules-Opt - Threads num: 1
+742625
+Test Capsules-Opt-Flushes - Threads num: 1
+3.66989
+Test Capsules-Opt-Flushes-Low - Threads num: 1
+1.44928
+Test Capsules-Opt-Flushes-Medium - Threads num: 1
+0.224569
+Test Capsules-Opt-Flushes-High - Threads num: 1
+1.99604
+Test Capsules-Opt-Fence - Threads num: 1
+1.39953
+Test Capsules-Opt - Threads num: 1
+736356
+Test Capsules-Opt-Flushes - Threads num: 1
+3.66936
+Test Capsules-Opt-Flushes-Low - Threads num: 1
+1.44894
+Test Capsules-Opt-Flushes-Medium - Threads num: 1
+0.224426
+Test Capsules-Opt-Flushes-High - Threads num: 1
+1.99599
+Test Capsules-Opt-Fence - Threads num: 1
+1.39932
+Test Capsules-Opt - Threads num: 1
+735059
+Test Capsules-Opt-Flushes - Threads num: 1
+3.67007
+Test Capsules-Opt-Flushes-Low - Threads num: 1
+1.44953
+Test Capsules-Opt-Flushes-Medium - Threads num: 1
+0.224591
+Test Capsules-Opt-Flushes-High - Threads num: 1
+1.99595
+Test Capsules-Opt-Fence - Threads num: 1
+1.39959
+Test Capsules-Opt - Threads num: 12
+2330489
+Test Capsules-Opt-Flushes - Threads num: 12
+4.24958
+Test Capsules-Opt-Flushes-Low - Threads num: 12
+1.64011
+Test Capsules-Opt-Flushes-Medium - Threads num: 12
+0.408032
+Test Capsules-Opt-Flushes-High - Threads num: 12
+2.20144
+Test Capsules-Opt-Fence - Threads num: 12
+1.78479
+Test Capsules-Opt - Threads num: 12
+2321752
+Test Capsules-Opt-Flushes - Threads num: 12
+4.24814
+Test Capsules-Opt-Flushes-Low - Threads num: 12
+1.63854
+Test Capsules-Opt-Flushes-Medium - Threads num: 12
+0.407335
+Test Capsules-Opt-Flushes-High - Threads num: 12
+2.20226
+Test Capsules-Opt-Fence - Threads num: 12
+1.78461
+Test Capsules-Opt - Threads num: 12
+2326688
+Test Capsules-Opt-Flushes - Threads num: 12
+4.2492
+Test Capsules-Opt-Flushes-Low - Threads num: 12
+1.63985
+Test Capsules-Opt-Flushes-Medium - Threads num: 12
+0.407832
+Test Capsules-Opt-Flushes-High - Threads num: 12
+2.20152
+Test Capsules-Opt-Fence - Threads num: 12
+1.78449
+Test Capsules-Opt - Threads num: 24
+3305054
+Test Capsules-Opt-Flushes - Threads num: 24
+4.53739
+Test Capsules-Opt-Flushes-Low - Threads num: 24
+1.69417
+Test Capsules-Opt-Flushes-Medium - Threads num: 24
+0.457735
+Test Capsules-Opt-Flushes-High - Threads num: 24
+2.38549
+Test Capsules-Opt-Fence - Threads num: 24
+2.01523
+Test Capsules-Opt - Threads num: 24
+3302982
+Test Capsules-Opt-Flushes - Threads num: 24
+4.53641
+Test Capsules-Opt-Flushes-Low - Threads num: 24
+1.69355
+Test Capsules-Opt-Flushes-Medium - Threads num: 24
+0.457436
+Test Capsules-Opt-Flushes-High - Threads num: 24
+2.38543
+Test Capsules-Opt-Fence - Threads num: 24
+2.01465
+Test Capsules-Opt - Threads num: 24
+3308875
+Test Capsules-Opt-Flushes - Threads num: 24
+4.53907
+Test Capsules-Opt-Flushes-Low - Threads num: 24
+1.69461
+Test Capsules-Opt-Flushes-Medium - Threads num: 24
+0.457945
+Test Capsules-Opt-Flushes-High - Threads num: 24
+2.38652
+Test Capsules-Opt-Fence - Threads num: 24
+2.01644
+Test Capsules-Opt - Threads num: 36
+3850043
+Test Capsules-Opt-Flushes - Threads num: 36
+4.73308
+Test Capsules-Opt-Flushes-Low - Threads num: 36
+1.71659
+Test Capsules-Opt-Flushes-Medium - Threads num: 36
+0.476738
+Test Capsules-Opt-Flushes-High - Threads num: 36
+2.53975
+Test Capsules-Opt-Fence - Threads num: 36
+2.18591
+Test Capsules-Opt - Threads num: 36
+3859029
+Test Capsules-Opt-Flushes - Threads num: 36
+4.73441
+Test Capsules-Opt-Flushes-Low - Threads num: 36
+1.71721
+Test Capsules-Opt-Flushes-Medium - Threads num: 36
+0.476987
+Test Capsules-Opt-Flushes-High - Threads num: 36
+2.54022
+Test Capsules-Opt-Fence - Threads num: 36
+2.18672
+Test Capsules-Opt - Threads num: 36
+3851328
+Test Capsules-Opt-Flushes - Threads num: 36
+4.73214
+Test Capsules-Opt-Flushes-Low - Threads num: 36
+1.7169
+Test Capsules-Opt-Flushes-Medium - Threads num: 36
+0.476809
+Test Capsules-Opt-Flushes-High - Threads num: 36
+2.53843
+Test Capsules-Opt-Fence - Threads num: 36
+2.18474
+Test Capsules-Opt - Threads num: 48
+4259171
+Test Capsules-Opt-Flushes - Threads num: 48
+4.88707
+Test Capsules-Opt-Flushes-Low - Threads num: 48
+1.73019
+Test Capsules-Opt-Flushes-Medium - Threads num: 48
+0.486857
+Test Capsules-Opt-Flushes-High - Threads num: 48
+2.67002
+Test Capsules-Opt-Fence - Threads num: 48
+2.32432
+Test Capsules-Opt - Threads num: 48
+4262682
+Test Capsules-Opt-Flushes - Threads num: 48
+4.88602
+Test Capsules-Opt-Flushes-Low - Threads num: 48
+1.7297
+Test Capsules-Opt-Flushes-Medium - Threads num: 48
+0.486598
+Test Capsules-Opt-Flushes-High - Threads num: 48
+2.66972
+Test Capsules-Opt-Fence - Threads num: 48
+2.32373
+Test Capsules-Opt - Threads num: 48
+4258496
+Test Capsules-Opt-Flushes - Threads num: 48
+4.88451
+Test Capsules-Opt-Flushes-Low - Threads num: 48
+1.72993
+Test Capsules-Opt-Flushes-Medium - Threads num: 48
+0.486796
+Test Capsules-Opt-Flushes-High - Threads num: 48
+2.66778
+Test Capsules-Opt-Fence - Threads num: 48
+2.32197
+Test Capsules-Opt - Threads num: 60
+4499223
+Test Capsules-Opt-Flushes - Threads num: 60
+5.03549
+Test Capsules-Opt-Flushes-Low - Threads num: 60
+1.73947
+Test Capsules-Opt-Flushes-Medium - Threads num: 60
+0.49317
+Test Capsules-Opt-Flushes-High - Threads num: 60
+2.80285
+Test Capsules-Opt-Fence - Threads num: 60
+2.46181
+Test Capsules-Opt - Threads num: 60
+4503182
+Test Capsules-Opt-Flushes - Threads num: 60
+5.03556
+Test Capsules-Opt-Flushes-Low - Threads num: 60
+1.73942
+Test Capsules-Opt-Flushes-Medium - Threads num: 60
+0.49319
+Test Capsules-Opt-Flushes-High - Threads num: 60
+2.80295
+Test Capsules-Opt-Fence - Threads num: 60
+2.4619
+Test Capsules-Opt - Threads num: 60
+4501035
+Test Capsules-Opt-Flushes - Threads num: 60
+5.03682
+Test Capsules-Opt-Flushes-Low - Threads num: 60
+1.73994
+Test Capsules-Opt-Flushes-Medium - Threads num: 60
+0.493428
+Test Capsules-Opt-Flushes-High - Threads num: 60
+2.80345
+Test Capsules-Opt-Fence - Threads num: 60
+2.46269
+Test Capsules-Opt - Threads num: 72
+4683768
+Test Capsules-Opt-Flushes - Threads num: 72
+5.17191
+Test Capsules-Opt-Flushes-Low - Threads num: 72
+1.74629
+Test Capsules-Opt-Flushes-Medium - Threads num: 72
+0.497553
+Test Capsules-Opt-Flushes-High - Threads num: 72
+2.92806
+Test Capsules-Opt-Fence - Threads num: 72
+2.59002
+Test Capsules-Opt - Threads num: 72
+4682077
+Test Capsules-Opt-Flushes - Threads num: 72
+5.17093
+Test Capsules-Opt-Flushes-Low - Threads num: 72
+1.74612
+Test Capsules-Opt-Flushes-Medium - Threads num: 72
+0.497481
+Test Capsules-Opt-Flushes-High - Threads num: 72
+2.92734
+Test Capsules-Opt-Fence - Threads num: 72
+2.58904
+Test Capsules-Opt - Threads num: 72
+4680975
+Test Capsules-Opt-Flushes - Threads num: 72
+5.17323
+Test Capsules-Opt-Flushes-Low - Threads num: 72
+1.74684
+Test Capsules-Opt-Flushes-Medium - Threads num: 72
+0.497829
+Test Capsules-Opt-Flushes-High - Threads num: 72
+2.92856
+Test Capsules-Opt-Fence - Threads num: 72
+2.59085
+Test Capsules-Opt - Threads num: 84
+4807002
+Test Capsules-Opt-Flushes - Threads num: 84
+5.29559
+Test Capsules-Opt-Flushes-Low - Threads num: 84
+1.7521
+Test Capsules-Opt-Flushes-Medium - Threads num: 84
+0.501016
+Test Capsules-Opt-Flushes-High - Threads num: 84
+3.04247
+Test Capsules-Opt-Fence - Threads num: 84
+2.70678
+Test Capsules-Opt - Threads num: 84
+4809864
+Test Capsules-Opt-Flushes - Threads num: 84
+5.29538
+Test Capsules-Opt-Flushes-Low - Threads num: 84
+1.75187
+Test Capsules-Opt-Flushes-Medium - Threads num: 84
+0.500929
+Test Capsules-Opt-Flushes-High - Threads num: 84
+3.04258
+Test Capsules-Opt-Fence - Threads num: 84
+2.70682
+Test Capsules-Opt - Threads num: 84
+4808178
+Test Capsules-Opt-Flushes - Threads num: 84
+5.29364
+Test Capsules-Opt-Flushes-Low - Threads num: 84
+1.75184
+Test Capsules-Opt-Flushes-Medium - Threads num: 84
+0.500866
+Test Capsules-Opt-Flushes-High - Threads num: 84
+3.04093
+Test Capsules-Opt-Fence - Threads num: 84
+2.70507
+Test Capsules-Opt - Threads num: 96
+4902757
+Test Capsules-Opt-Flushes - Threads num: 96
+5.40695
+Test Capsules-Opt-Flushes-Low - Threads num: 96
+1.75669
+Test Capsules-Opt-Flushes-Medium - Threads num: 96
+0.50352
+Test Capsules-Opt-Flushes-High - Threads num: 96
+3.14674
+Test Capsules-Opt-Fence - Threads num: 96
+2.81252
+Test Capsules-Opt - Threads num: 96
+4895594
+Test Capsules-Opt-Flushes - Threads num: 96
+5.40512
+Test Capsules-Opt-Flushes-Low - Threads num: 96
+1.75676
+Test Capsules-Opt-Flushes-Medium - Threads num: 96
+0.503572
+Test Capsules-Opt-Flushes-High - Threads num: 96
+3.14479
+Test Capsules-Opt-Fence - Threads num: 96
+2.81055
+Test Capsules-Opt - Threads num: 96
+4891238
+Test Capsules-Opt-Flushes - Threads num: 96
+5.40643
+Test Capsules-Opt-Flushes-Low - Threads num: 96
+1.75702
+Test Capsules-Opt-Flushes-Medium - Threads num: 96
+0.503696
+Test Capsules-Opt-Flushes-High - Threads num: 96
+3.14572
+Test Capsules-Opt-Fence - Threads num: 96
+2.81165
+Test Capsules - Threads num: 1
+26715
+Test Capsules - Threads num: 1
+27090
+Test Capsules - Threads num: 1
+26913
+Test Capsules - Threads num: 12
+313762
+Test Capsules - Threads num: 12
+310212
+Test Capsules - Threads num: 12
+313722
+Test Capsules - Threads num: 24
+535681
+Test Capsules - Threads num: 24
+542008
+Test Capsules - Threads num: 24
+524135
+Test Capsules - Threads num: 36
+673436
+Test Capsules - Threads num: 36
+677510
+Test Capsules - Threads num: 36
+663147
+Test Capsules - Threads num: 48
+758420
+Test Capsules - Threads num: 48
+749291
+Test Capsules - Threads num: 48
+755805
+Test Capsules - Threads num: 60
+811502
+Test Capsules - Threads num: 60
+800736
+Test Capsules - Threads num: 60
+815575
+Test Capsules - Threads num: 72
+860389
+Test Capsules - Threads num: 72
+855013
+Test Capsules - Threads num: 72
+848457
+Test Capsules - Threads num: 84
+885486
+Test Capsules - Threads num: 84
+884342
+Test Capsules - Threads num: 84
+890593
+Test Capsules - Threads num: 96
+909983
+Test Capsules - Threads num: 96
+920780
+Test Capsules - Threads num: 96
+919040
+Test Tracking-nopsync - Threads num: 1
+387604
+Test Tracking-nopsync - Threads num: 1
+386957
+Test Tracking-nopsync - Threads num: 1
+386774
+Test Tracking-nopsync - Threads num: 12
+1003454
+Test Tracking-nopsync - Threads num: 12
+1003576
+Test Tracking-nopsync - Threads num: 12
+993083
+Test Tracking-nopsync - Threads num: 24
+2147137
+Test Tracking-nopsync - Threads num: 24
+2153519
+Test Tracking-nopsync - Threads num: 24
+2146521
+Test Tracking-nopsync - Threads num: 36
+3755155
+Test Tracking-nopsync - Threads num: 36
+3756262
+Test Tracking-nopsync - Threads num: 36
+3757870
+Test Tracking-nopsync - Threads num: 48
+4556350
+Test Tracking-nopsync - Threads num: 48
+4550983
+Test Tracking-nopsync - Threads num: 48
+4553371
+Test Tracking-nopsync - Threads num: 60
+5061364
+Test Tracking-nopsync - Threads num: 60
+5060876
+Test Tracking-nopsync - Threads num: 60
+5026124
+Test Tracking-nopsync - Threads num: 72
+5436609
+Test Tracking-nopsync - Threads num: 72
+5430657
+Test Tracking-nopsync - Threads num: 72
+5431527
+Test Tracking-nopsync - Threads num: 84
+5736521
+Test Tracking-nopsync - Threads num: 84
+5732823
+Test Tracking-nopsync - Threads num: 84
+5739524
+Test Tracking-nopsync - Threads num: 96
+5770720
+Test Tracking-nopsync - Threads num: 96
+5422023
+Test Tracking-nopsync - Threads num: 96
+5479629
+Test Capsules-Opt-nopsync - Threads num: 1
+768871
+Test Capsules-Opt-nopsync - Threads num: 1
+745822
+Test Capsules-Opt-nopsync - Threads num: 1
+744902
+Test Capsules-Opt-nopsync - Threads num: 12
+2403696
+Test Capsules-Opt-nopsync - Threads num: 12
+2404327
+Test Capsules-Opt-nopsync - Threads num: 12
+2401475
+Test Capsules-Opt-nopsync - Threads num: 24
+3385939
+Test Capsules-Opt-nopsync - Threads num: 24
+3385923
+Test Capsules-Opt-nopsync - Threads num: 24
+3392627
+Test Capsules-Opt-nopsync - Threads num: 36
+3930663
+Test Capsules-Opt-nopsync - Threads num: 36
+3930249
+Test Capsules-Opt-nopsync - Threads num: 36
+3922092
+Test Capsules-Opt-nopsync - Threads num: 48
+4331650
+Test Capsules-Opt-nopsync - Threads num: 48
+4329475
+Test Capsules-Opt-nopsync - Threads num: 48
+4333859
+Test Capsules-Opt-nopsync - Threads num: 60
+4606823
+Test Capsules-Opt-nopsync - Threads num: 60
+4605739
+Test Capsules-Opt-nopsync - Threads num: 60
+4614023
+Test Capsules-Opt-nopsync - Threads num: 72
+4813288
+Test Capsules-Opt-nopsync - Threads num: 72
+4810225
+Test Capsules-Opt-nopsync - Threads num: 72
+4810688
+Test Capsules-Opt-nopsync - Threads num: 84
+4952827
+Test Capsules-Opt-nopsync - Threads num: 84
+4958300
+Test Capsules-Opt-nopsync - Threads num: 84
+4945506
+Test Capsules-Opt-nopsync - Threads num: 96
+5028958
+Test Capsules-Opt-nopsync - Threads num: 96
+5032735
+Test Capsules-Opt-nopsync - Threads num: 96
+5044258
+Test Tracking-nopwbs - Threads num: 1
+3352720
+Test Tracking-nopwbs - Threads num: 1
+3430713
+Test Tracking-nopwbs - Threads num: 1
+3437699
+Test Tracking-nopwbs - Threads num: 12
+1223334
+Test Tracking-nopwbs - Threads num: 12
+1206580
+Test Tracking-nopwbs - Threads num: 12
+1206493
+Test Tracking-nopwbs - Threads num: 24
+2658037
+Test Tracking-nopwbs - Threads num: 24
+2656335
+Test Tracking-nopwbs - Threads num: 24
+2708361
+Test Tracking-nopwbs - Threads num: 36
+6784342
+Test Tracking-nopwbs - Threads num: 36
+6790176
+Test Tracking-nopwbs - Threads num: 36
+6767948
+Test Tracking-nopwbs - Threads num: 48
+9547652
+Test Tracking-nopwbs - Threads num: 48
+9545393
+Test Tracking-nopwbs - Threads num: 48
+9557731
+Test Tracking-nopwbs - Threads num: 60
+10639315
+Test Tracking-nopwbs - Threads num: 60
+10665204
+Test Tracking-nopwbs - Threads num: 60
+10654601
+Test Tracking-nopwbs - Threads num: 72
+11389787
+Test Tracking-nopwbs - Threads num: 72
+11409428
+Test Tracking-nopwbs - Threads num: 72
+11398669
+Test Tracking-nopwbs - Threads num: 84
+12019372
+Test Tracking-nopwbs - Threads num: 84
+12043440
+Test Tracking-nopwbs - Threads num: 84
+12025708
+Test Tracking-nopwbs - Threads num: 96
+12421353
+Test Tracking-nopwbs - Threads num: 96
+12452304
+Test Tracking-nopwbs - Threads num: 96
+12432847
+Test Capsules-Opt-nopwbs - Threads num: 1
+2643763
+Test Capsules-Opt-nopwbs - Threads num: 1
+2587838
+Test Capsules-Opt-nopwbs - Threads num: 1
+2588551
+Test Capsules-Opt-nopwbs - Threads num: 12
+4521515
+Test Capsules-Opt-nopwbs - Threads num: 12
+4528062
+Test Capsules-Opt-nopwbs - Threads num: 12
+4446008
+Test Capsules-Opt-nopwbs - Threads num: 24
+8428962
+Test Capsules-Opt-nopwbs - Threads num: 24
+8442557
+Test Capsules-Opt-nopwbs - Threads num: 24
+8413594
+Test Capsules-Opt-nopwbs - Threads num: 36
+11195907
+Test Capsules-Opt-nopwbs - Threads num: 36
+11210119
+Test Capsules-Opt-nopwbs - Threads num: 36
+11151393
+Test Capsules-Opt-nopwbs - Threads num: 48
+12892577
+Test Capsules-Opt-nopwbs - Threads num: 48
+12885339
+Test Capsules-Opt-nopwbs - Threads num: 48
+12893432
+Test Capsules-Opt-nopwbs - Threads num: 60
+14125499
+Test Capsules-Opt-nopwbs - Threads num: 60
+14132691
+Test Capsules-Opt-nopwbs - Threads num: 60
+14142087
+Test Capsules-Opt-nopwbs - Threads num: 72
+15232362
+Test Capsules-Opt-nopwbs - Threads num: 72
+15239002
+Test Capsules-Opt-nopwbs - Threads num: 72
+15265890
+Test Capsules-Opt-nopwbs - Threads num: 84
+16182318
+Test Capsules-Opt-nopwbs - Threads num: 84
+16180728
+Test Capsules-Opt-nopwbs - Threads num: 84
+16165707
+Test Capsules-Opt-nopwbs - Threads num: 96
+16982140
+Test Capsules-Opt-nopwbs - Threads num: 96
+16984645
+Test Capsules-Opt-nopwbs - Threads num: 96
+16996912
+Test Tracking-nolowpwbs - Threads num: 1
+1066777
+Test Tracking-nolowpwbs - Threads num: 1
+1057183
+Test Tracking-nolowpwbs - Threads num: 1
+1055399
+Test Tracking-nolowpwbs - Threads num: 12
+1068390
+Test Tracking-nolowpwbs - Threads num: 12
+1066304
+Test Tracking-nolowpwbs - Threads num: 12
+1063985
+Test Tracking-nolowpwbs - Threads num: 24
+2193089
+Test Tracking-nolowpwbs - Threads num: 24
+2183563
+Test Tracking-nolowpwbs - Threads num: 24
+2186289
+Test Tracking-nolowpwbs - Threads num: 36
+4116120
+Test Tracking-nolowpwbs - Threads num: 36
+4113844
+Test Tracking-nolowpwbs - Threads num: 36
+4124609
+Test Tracking-nolowpwbs - Threads num: 48
+5132757
+Test Tracking-nolowpwbs - Threads num: 48
+5123671
+Test Tracking-nolowpwbs - Threads num: 48
+5134638
+Test Tracking-nolowpwbs - Threads num: 60
+5691390
+Test Tracking-nolowpwbs - Threads num: 60
+5692784
+Test Tracking-nolowpwbs - Threads num: 60
+5689755
+Test Tracking-nolowpwbs - Threads num: 72
+6132714
+Test Tracking-nolowpwbs - Threads num: 72
+6134118
+Test Tracking-nolowpwbs - Threads num: 72
+6134877
+Test Tracking-nolowpwbs - Threads num: 84
+6497415
+Test Tracking-nolowpwbs - Threads num: 84
+6501994
+Test Tracking-nolowpwbs - Threads num: 84
+6496358
+Test Tracking-nolowpwbs - Threads num: 96
+6627251
+Test Tracking-nolowpwbs - Threads num: 96
+6607651
+Test Tracking-nolowpwbs - Threads num: 96
+6581661
+Test Capsules-Opt-nolowpwbs - Threads num: 1
+952551
+Test Capsules-Opt-nolowpwbs - Threads num: 1
+1014274
+Test Capsules-Opt-nolowpwbs - Threads num: 1
+1015912
+Test Capsules-Opt-nolowpwbs - Threads num: 12
+2514559
+Test Capsules-Opt-nolowpwbs - Threads num: 12
+2512200
+Test Capsules-Opt-nolowpwbs - Threads num: 12
+2517236
+Test Capsules-Opt-nolowpwbs - Threads num: 24
+3609937
+Test Capsules-Opt-nolowpwbs - Threads num: 24
+3612707
+Test Capsules-Opt-nolowpwbs - Threads num: 24
+3619901
+Test Capsules-Opt-nolowpwbs - Threads num: 36
+4290175
+Test Capsules-Opt-nolowpwbs - Threads num: 36
+4303687
+Test Capsules-Opt-nolowpwbs - Threads num: 36
+4294072
+Test Capsules-Opt-nolowpwbs - Threads num: 48
+4829134
+Test Capsules-Opt-nolowpwbs - Threads num: 48
+4835244
+Test Capsules-Opt-nolowpwbs - Threads num: 48
+4835852
+Test Capsules-Opt-nolowpwbs - Threads num: 60
+5253761
+Test Capsules-Opt-nolowpwbs - Threads num: 60
+5261916
+Test Capsules-Opt-nolowpwbs - Threads num: 60
+5259550
+Test Capsules-Opt-nolowpwbs - Threads num: 72
+5578931
+Test Capsules-Opt-nolowpwbs - Threads num: 72
+5579344
+Test Capsules-Opt-nolowpwbs - Threads num: 72
+5587055
+Test Capsules-Opt-nolowpwbs - Threads num: 84
+5820844
+Test Capsules-Opt-nolowpwbs - Threads num: 84
+5816712
+Test Capsules-Opt-nolowpwbs - Threads num: 84
+5823463
+Test Capsules-Opt-nolowpwbs - Threads num: 96
+5994772
+Test Capsules-Opt-nolowpwbs - Threads num: 96
+5987254
+Test Capsules-Opt-nolowpwbs - Threads num: 96
+5988480
+Test Tracking-nolownomedpwbs - Threads num: 1
+3431568
+Test Tracking-nolownomedpwbs - Threads num: 1
+3364346
+Test Tracking-nolownomedpwbs - Threads num: 1
+3405360
+Test Tracking-nolownomedpwbs - Threads num: 12
+1198185
+Test Tracking-nolownomedpwbs - Threads num: 12
+1202840
+Test Tracking-nolownomedpwbs - Threads num: 12
+1193449
+Test Tracking-nolownomedpwbs - Threads num: 24
+2680047
+Test Tracking-nolownomedpwbs - Threads num: 24
+2679285
+Test Tracking-nolownomedpwbs - Threads num: 24
+2651333
+Test Tracking-nolownomedpwbs - Threads num: 36
+6741634
+Test Tracking-nolownomedpwbs - Threads num: 36
+6742325
+Test Tracking-nolownomedpwbs - Threads num: 36
+6736145
+Test Tracking-nolownomedpwbs - Threads num: 48
+9550229
+Test Tracking-nolownomedpwbs - Threads num: 48
+9506696
+Test Tracking-nolownomedpwbs - Threads num: 48
+9534929
+Test Tracking-nolownomedpwbs - Threads num: 60
+10630226
+Test Tracking-nolownomedpwbs - Threads num: 60
+10616603
+Test Tracking-nolownomedpwbs - Threads num: 60
+10626042
+Test Tracking-nolownomedpwbs - Threads num: 72
+11376706
+Test Tracking-nolownomedpwbs - Threads num: 72
+11387578
+Test Tracking-nolownomedpwbs - Threads num: 72
+11401030
+Test Tracking-nolownomedpwbs - Threads num: 84
+11987570
+Test Tracking-nolownomedpwbs - Threads num: 84
+11958290
+Test Tracking-nolownomedpwbs - Threads num: 84
+11987183
+Test Tracking-nolownomedpwbs - Threads num: 96
+12385807
+Test Tracking-nolownomedpwbs - Threads num: 96
+12417959
+Test Tracking-nolownomedpwbs - Threads num: 96
+12411126
+Test Capsules-Opt-nolownomedpwbs - Threads num: 1
+1066953
+Test Capsules-Opt-nolownomedpwbs - Threads num: 1
+1067105
+Test Capsules-Opt-nolownomedpwbs - Threads num: 1
+1065520
+Test Capsules-Opt-nolownomedpwbs - Threads num: 12
+2716954
+Test Capsules-Opt-nolownomedpwbs - Threads num: 12
+2711356
+Test Capsules-Opt-nolownomedpwbs - Threads num: 12
+2711028
+Test Capsules-Opt-nolownomedpwbs - Threads num: 24
+3909715
+Test Capsules-Opt-nolownomedpwbs - Threads num: 24
+3906976
+Test Capsules-Opt-nolownomedpwbs - Threads num: 24
+3913534
+Test Capsules-Opt-nolownomedpwbs - Threads num: 36
+4686142
+Test Capsules-Opt-nolownomedpwbs - Threads num: 36
+4684588
+Test Capsules-Opt-nolownomedpwbs - Threads num: 36
+4674338
+Test Capsules-Opt-nolownomedpwbs - Threads num: 48
+5294668
+Test Capsules-Opt-nolownomedpwbs - Threads num: 48
+5285321
+Test Capsules-Opt-nolownomedpwbs - Threads num: 48
+5290637
+Test Capsules-Opt-nolownomedpwbs - Threads num: 60
+5801401
+Test Capsules-Opt-nolownomedpwbs - Threads num: 60
+5793363
+Test Capsules-Opt-nolownomedpwbs - Threads num: 60
+5798284
+Test Capsules-Opt-nolownomedpwbs - Threads num: 72
+6178895
+Test Capsules-Opt-nolownomedpwbs - Threads num: 72
+6176746
+Test Capsules-Opt-nolownomedpwbs - Threads num: 72
+6172255
+Test Capsules-Opt-nolownomedpwbs - Threads num: 84
+6450370
+Test Capsules-Opt-nolownomedpwbs - Threads num: 84
+6458460
+Test Capsules-Opt-nolownomedpwbs - Threads num: 84
+6448737
+Test Capsules-Opt-nolownomedpwbs - Threads num: 96
+6704971
+Test Capsules-Opt-nolownomedpwbs - Threads num: 96
+6702587
+Test Capsules-Opt-nolownomedpwbs - Threads num: 96
+6701434
+Test Tracking-lowpwbs - Threads num: 1
+472817
+Test Tracking-lowpwbs - Threads num: 1
+468946
+Test Tracking-lowpwbs - Threads num: 1
+465668
+Test Tracking-lowpwbs - Threads num: 12
+1109963
+Test Tracking-lowpwbs - Threads num: 12
+1101011
+Test Tracking-lowpwbs - Threads num: 12
+1114707
+Test Tracking-lowpwbs - Threads num: 24
+2537645
+Test Tracking-lowpwbs - Threads num: 24
+2559811
+Test Tracking-lowpwbs - Threads num: 24
+2539730
+Test Tracking-lowpwbs - Threads num: 36
+5029863
+Test Tracking-lowpwbs - Threads num: 36
+5029594
+Test Tracking-lowpwbs - Threads num: 36
+5021583
+Test Tracking-lowpwbs - Threads num: 48
+6346236
+Test Tracking-lowpwbs - Threads num: 48
+6341929
+Test Tracking-lowpwbs - Threads num: 48
+6348190
+Test Tracking-lowpwbs - Threads num: 60
+7164690
+Test Tracking-lowpwbs - Threads num: 60
+7164121
+Test Tracking-lowpwbs - Threads num: 60
+7158847
+Test Tracking-lowpwbs - Threads num: 72
+7731977
+Test Tracking-lowpwbs - Threads num: 72
+7739400
+Test Tracking-lowpwbs - Threads num: 72
+7735923
+Test Tracking-lowpwbs - Threads num: 84
+8159889
+Test Tracking-lowpwbs - Threads num: 84
+8185166
+Test Tracking-lowpwbs - Threads num: 84
+8156134
+Test Tracking-lowpwbs - Threads num: 96
+8290911
+Test Tracking-lowpwbs - Threads num: 96
+8370547
+Test Tracking-lowpwbs - Threads num: 96
+8348645
+Test Capsules-Opt-lowpwbs - Threads num: 1
+1107740
+Test Capsules-Opt-lowpwbs - Threads num: 1
+1087078
+Test Capsules-Opt-lowpwbs - Threads num: 1
+1120811
+Test Capsules-Opt-lowpwbs - Threads num: 12
+3601984
+Test Capsules-Opt-lowpwbs - Threads num: 12
+3622300
+Test Capsules-Opt-lowpwbs - Threads num: 12
+3625232
+Test Capsules-Opt-lowpwbs - Threads num: 24
+6433111
+Test Capsules-Opt-lowpwbs - Threads num: 24
+6438144
+Test Capsules-Opt-lowpwbs - Threads num: 24
+6438567
+Test Capsules-Opt-lowpwbs - Threads num: 36
+8172161
+Test Capsules-Opt-lowpwbs - Threads num: 36
+8202445
+Test Capsules-Opt-lowpwbs - Threads num: 36
+8183875
+Test Capsules-Opt-lowpwbs - Threads num: 48
+9368498
+Test Capsules-Opt-lowpwbs - Threads num: 48
+9396816
+Test Capsules-Opt-lowpwbs - Threads num: 48
+9391765
+Test Capsules-Opt-lowpwbs - Threads num: 60
+10414287
+Test Capsules-Opt-lowpwbs - Threads num: 60
+10426271
+Test Capsules-Opt-lowpwbs - Threads num: 60
+10429616
+Test Capsules-Opt-lowpwbs - Threads num: 72
+11375472
+Test Capsules-Opt-lowpwbs - Threads num: 72
+11378136
+Test Capsules-Opt-lowpwbs - Threads num: 72
+11387985
+Test Capsules-Opt-lowpwbs - Threads num: 84
+12217397
+Test Capsules-Opt-lowpwbs - Threads num: 84
+12255563
+Test Capsules-Opt-lowpwbs - Threads num: 84
+12228719
+Test Capsules-Opt-lowpwbs - Threads num: 96
+12901006
+Test Capsules-Opt-lowpwbs - Threads num: 96
+12890486
+Test Capsules-Opt-lowpwbs - Threads num: 96
+12901072
+Test Tracking-medpwbs - Threads num: 1
+1048292
+Test Tracking-medpwbs - Threads num: 1
+1052987
+Test Tracking-medpwbs - Threads num: 1
+1061956
+Test Tracking-medpwbs - Threads num: 12
+1066020
+Test Tracking-medpwbs - Threads num: 12
+1065199
+Test Tracking-medpwbs - Threads num: 12
+1060635
+Test Tracking-medpwbs - Threads num: 24
+2201695
+Test Tracking-medpwbs - Threads num: 24
+2191885
+Test Tracking-medpwbs - Threads num: 24
+2198027
+Test Tracking-medpwbs - Threads num: 36
+4137099
+Test Tracking-medpwbs - Threads num: 36
+4141621
+Test Tracking-medpwbs - Threads num: 36
+4143282
+Test Tracking-medpwbs - Threads num: 48
+5154437
+Test Tracking-medpwbs - Threads num: 48
+5157527
+Test Tracking-medpwbs - Threads num: 48
+5160645
+Test Tracking-medpwbs - Threads num: 60
+5720575
+Test Tracking-medpwbs - Threads num: 60
+5714354
+Test Tracking-medpwbs - Threads num: 60
+5713154
+Test Tracking-medpwbs - Threads num: 72
+6156088
+Test Tracking-medpwbs - Threads num: 72
+6153587
+Test Tracking-medpwbs - Threads num: 72
+6156308
+Test Tracking-medpwbs - Threads num: 84
+6511685
+Test Tracking-medpwbs - Threads num: 84
+6517812
+Test Tracking-medpwbs - Threads num: 84
+6515435
+Test Tracking-medpwbs - Threads num: 96
+6565818
+Test Tracking-medpwbs - Threads num: 96
+6663328
+Test Tracking-medpwbs - Threads num: 96
+6654260
+Test Capsules-Opt-medpwbs - Threads num: 1
+2118257
+Test Capsules-Opt-medpwbs - Threads num: 1
+2126109
+Test Capsules-Opt-medpwbs - Threads num: 1
+2127975
+Test Capsules-Opt-medpwbs - Threads num: 12
+3562517
+Test Capsules-Opt-medpwbs - Threads num: 12
+3581157
+Test Capsules-Opt-medpwbs - Threads num: 12
+3571137
+Test Capsules-Opt-medpwbs - Threads num: 24
+6039352
+Test Capsules-Opt-medpwbs - Threads num: 24
+6051429
+Test Capsules-Opt-medpwbs - Threads num: 24
+6036970
+Test Capsules-Opt-medpwbs - Threads num: 36
+7593559
+Test Capsules-Opt-medpwbs - Threads num: 36
+7595986
+Test Capsules-Opt-medpwbs - Threads num: 36
+7594820
+Test Capsules-Opt-medpwbs - Threads num: 48
+8676816
+Test Capsules-Opt-medpwbs - Threads num: 48
+8672201
+Test Capsules-Opt-medpwbs - Threads num: 48
+8681643
+Test Capsules-Opt-medpwbs - Threads num: 60
+9524636
+Test Capsules-Opt-medpwbs - Threads num: 60
+9531432
+Test Capsules-Opt-medpwbs - Threads num: 60
+9521732
+Test Capsules-Opt-medpwbs - Threads num: 72
+10299491
+Test Capsules-Opt-medpwbs - Threads num: 72
+10303947
+Test Capsules-Opt-medpwbs - Threads num: 72
+10302874
+Test Capsules-Opt-medpwbs - Threads num: 84
+10991637
+Test Capsules-Opt-medpwbs - Threads num: 84
+10986652
+Test Capsules-Opt-medpwbs - Threads num: 84
+10992805
+Test Capsules-Opt-medpwbs - Threads num: 96
+11567142
+Test Capsules-Opt-medpwbs - Threads num: 96
+11572231
+Test Capsules-Opt-medpwbs - Threads num: 96
+11568659
+Test Tracking-highpwbs - Threads num: 1
+3348043
+Test Tracking-highpwbs - Threads num: 1
+3397089
+Test Tracking-highpwbs - Threads num: 1
+3348970
+Test Tracking-highpwbs - Threads num: 12
+1218214
+Test Tracking-highpwbs - Threads num: 12
+1223421
+Test Tracking-highpwbs - Threads num: 12
+1209929
+Test Tracking-highpwbs - Threads num: 24
+2668405
+Test Tracking-highpwbs - Threads num: 24
+2654922
+Test Tracking-highpwbs - Threads num: 24
+2703335
+Test Tracking-highpwbs - Threads num: 36
+6719820
+Test Tracking-highpwbs - Threads num: 36
+6780033
+Test Tracking-highpwbs - Threads num: 36
+6769839
+Test Tracking-highpwbs - Threads num: 48
+9504888
+Test Tracking-highpwbs - Threads num: 48
+9500583
+Test Tracking-highpwbs - Threads num: 48
+9530163
+Test Tracking-highpwbs - Threads num: 60
+10650028
+Test Tracking-highpwbs - Threads num: 60
+10643699
+Test Tracking-highpwbs - Threads num: 60
+10656875
+Test Tracking-highpwbs - Threads num: 72
+11450915
+Test Tracking-highpwbs - Threads num: 72
+11440667
+Test Tracking-highpwbs - Threads num: 72
+11431795
+Test Tracking-highpwbs - Threads num: 84
+12055724
+Test Tracking-highpwbs - Threads num: 84
+12028089
+Test Tracking-highpwbs - Threads num: 84
+12012847
+Test Tracking-highpwbs - Threads num: 96
+12428415
+Test Tracking-highpwbs - Threads num: 96
+12472783
+Test Tracking-highpwbs - Threads num: 96
+12432419
+Test Capsules-Opt-highpwbs - Threads num: 1
+1051264
+Test Capsules-Opt-highpwbs - Threads num: 1
+1047430
+Test Capsules-Opt-highpwbs - Threads num: 1
+1007787
+Test Capsules-Opt-highpwbs - Threads num: 12
+2712837
+Test Capsules-Opt-highpwbs - Threads num: 12
+2711747
+Test Capsules-Opt-highpwbs - Threads num: 12
+2719054
+Test Capsules-Opt-highpwbs - Threads num: 24
+3917417
+Test Capsules-Opt-highpwbs - Threads num: 24
+3921713
+Test Capsules-Opt-highpwbs - Threads num: 24
+3912701
+Test Capsules-Opt-highpwbs - Threads num: 36
+4671770
+Test Capsules-Opt-highpwbs - Threads num: 36
+4673882
+Test Capsules-Opt-highpwbs - Threads num: 36
+4681846
+Test Capsules-Opt-highpwbs - Threads num: 48
+5281937
+Test Capsules-Opt-highpwbs - Threads num: 48
+5284174
+Test Capsules-Opt-highpwbs - Threads num: 48
+5290038
+Test Capsules-Opt-highpwbs - Threads num: 60
+5790103
+Test Capsules-Opt-highpwbs - Threads num: 60
+5790393
+Test Capsules-Opt-highpwbs - Threads num: 60
+5790595
+Test Capsules-Opt-highpwbs - Threads num: 72
+6175062
+Test Capsules-Opt-highpwbs - Threads num: 72
+6179452
+Test Capsules-Opt-highpwbs - Threads num: 72
+6169141
+Test Capsules-Opt-highpwbs - Threads num: 84
+6458575
+Test Capsules-Opt-highpwbs - Threads num: 84
+6448299
+Test Capsules-Opt-highpwbs - Threads num: 84
+6456844
+Test Capsules-Opt-highpwbs - Threads num: 96
+6705428
+Test Capsules-Opt-highpwbs - Threads num: 96
+6698372
+Test Capsules-Opt-highpwbs - Threads num: 96
+6689235
+Test Tracking-highpwbs - Threads num: 1
+3359657
+Test Tracking-highpwbs - Threads num: 1
+3344073
+Test Tracking-highpwbs - Threads num: 1
+3386740
+Test Tracking-highpwbs - Threads num: 12
+1213995
+Test Tracking-highpwbs - Threads num: 12
+1213446
+Test Tracking-highpwbs - Threads num: 12
+1208639
+Test Tracking-highpwbs - Threads num: 24
+2657225
+Test Tracking-highpwbs - Threads num: 24
+2626366
+Test Tracking-highpwbs - Threads num: 24
+2671746
+Test Tracking-highpwbs - Threads num: 36
+6704480
+Test Tracking-highpwbs - Threads num: 36
+6764472
+Test Tracking-highpwbs - Threads num: 36
+6738393
+Test Tracking-highpwbs - Threads num: 48
+9529060
+Test Tracking-highpwbs - Threads num: 48
+9506387
+Test Tracking-highpwbs - Threads num: 48
+9508886
+Test Tracking-highpwbs - Threads num: 60
+10652534
+Test Tracking-highpwbs - Threads num: 60
+10655406
+Test Tracking-highpwbs - Threads num: 60
+10626138
+Test Tracking-highpwbs - Threads num: 72
+11414941
+Test Tracking-highpwbs - Threads num: 72
+11414325
+Test Tracking-highpwbs - Threads num: 72
+11411909
+Test Tracking-highpwbs - Threads num: 84
+12019971
+Test Tracking-highpwbs - Threads num: 84
+12002664
+Test Tracking-highpwbs - Threads num: 84
+12006639
+Test Tracking-highpwbs - Threads num: 96
+12429879
+Test Tracking-highpwbs - Threads num: 96
+12434042
+Test Tracking-highpwbs - Threads num: 96
+12427354
+Test Capsules-Opt-highpwbs - Threads num: 1
+1051840
+Test Capsules-Opt-highpwbs - Threads num: 1
+1053262
+Test Capsules-Opt-highpwbs - Threads num: 1
+1055552
+Test Capsules-Opt-highpwbs - Threads num: 12
+2716710
+Test Capsules-Opt-highpwbs - Threads num: 12
+2712233
+Test Capsules-Opt-highpwbs - Threads num: 12
+2716938
+Test Capsules-Opt-highpwbs - Threads num: 24
+3919240
+Test Capsules-Opt-highpwbs - Threads num: 24
+3886810
+Test Capsules-Opt-highpwbs - Threads num: 24
+3917078
+Test Capsules-Opt-highpwbs - Threads num: 36
+4674745
+Test Capsules-Opt-highpwbs - Threads num: 36
+4679065
+Test Capsules-Opt-highpwbs - Threads num: 36
+4685321
+Test Capsules-Opt-highpwbs - Threads num: 48
+5293262
+Test Capsules-Opt-highpwbs - Threads num: 48
+5293214
+Test Capsules-Opt-highpwbs - Threads num: 48
+5289273
+Test Capsules-Opt-highpwbs - Threads num: 60
+5792498
+Test Capsules-Opt-highpwbs - Threads num: 60
+5789060
+Test Capsules-Opt-highpwbs - Threads num: 60
+5789677
+Test Capsules-Opt-highpwbs - Threads num: 72
+6168462
+Test Capsules-Opt-highpwbs - Threads num: 72
+6165411
+Test Capsules-Opt-highpwbs - Threads num: 72
+6166911
+Test Capsules-Opt-highpwbs - Threads num: 84
+6440640
+Test Capsules-Opt-highpwbs - Threads num: 84
+6457038
+Test Capsules-Opt-highpwbs - Threads num: 84
+6456315
+Test Capsules-Opt-highpwbs - Threads num: 96
+6685762
+Test Capsules-Opt-highpwbs - Threads num: 96
+6696737
+Test Capsules-Opt-highpwbs - Threads num: 96
+6708105
