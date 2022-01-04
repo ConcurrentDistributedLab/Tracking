@@ -15,7 +15,7 @@ An up-to-date version of the code provided here, together with additional recove
 
 # Reproduce experimental results
 
-First, run the `figures_pcomb_compile.sh` script to compile the executables. Then, run the `figures_pcomb_run.sh` script to produce the results of each figure in [3], regarding our algorithms. The script creates the output files in the `results` directory. Finally, run `python figures_plot.py` to plot the figures.
+First, run the `figures_compile.sh` script to compile the executables. Then, run the `figures_run.sh` script to produce the results of each figure in [3], regarding our algorithms. The script creates the output files in the `results` directory. Finally, run `python figures_plot.py` to plot the figures.
 
 
 The folder `Expected Results` contains the expected results and figures for our algorithm (Tracking).
@@ -26,7 +26,7 @@ After compiling the executables, you can run your own experiment by calling `./<
 
 - A modern 64-bit machine.
 - A recent Linux distribution.
-- As a compiler, gcc of version 4.8 or greater is recommended, but you may also try to use icx or clang.
+- The g++ (version 4.8.5 or greater) compiler.
 - Building requires the development versions of the following packages:
     - `libatomic`
     - `libnuma`
